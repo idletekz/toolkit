@@ -1,3 +1,5 @@
+> Understanding and relying on ecosystems is the best path to build resilient and scalable solution in a timely fashion
+
 ## Reading
 - [k8s in action](https://www.manning.com/books/kubernetes-in-action)
 - [learn helm](https://www.google.com/books/edition/Learn_Helm/QfjqDwAAQBAJ?hl=en&gbpv=0)
